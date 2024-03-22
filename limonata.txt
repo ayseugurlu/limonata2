@@ -7,4 +7,5 @@ seker
 karistir
 buz
 esmer seker ekle
+nane ekle
 
