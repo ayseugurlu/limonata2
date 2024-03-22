@@ -5,3 +5,5 @@ su
 limon
 seker
 karistir
+buz
+esmer seker
