@@ -6,4 +6,5 @@ limon
 seker
 karistir
 buz
-esmer seker
+esmer seker ekle
+
